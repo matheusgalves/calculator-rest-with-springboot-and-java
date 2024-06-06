@@ -3,13 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Calculadora REST com Spring Boot em Java</title>
 </head>
 <body>
 
 <h1>Calculadora REST com Spring Boot em Java</h1>
 
-<p>Este é um projeto de uma calculadora RESTful desenvolvida com o framework Spring Boot em Java. A aplicação permite realizar operações matemáticas básicas através de requisições HTTP.</p>
+<p>Este é um projeto de uma calculadora REST desenvolvida com o framework Spring Boot em Java. A aplicação permite realizar operações matemáticas básicas através de requisições HTTP.</p>
 
 <h2>Funcionalidades Principais</h2>
 
