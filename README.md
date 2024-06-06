@@ -18,6 +18,7 @@
     <li><strong>Multiplicação:</strong> <code>/multiplication/{numberOne}/{numberTwo}</code> - realiza a multiplicação de dois números.</li>
     <li><strong>Divisão:</strong> <code>/division/{numberOne}/{numberTwo}</code> - realiza a divisão entre dois números.</li>
     <li><strong>Cálculo da Média:</strong> <code>/mean/{numbers}</code> - calcula a média de uma lista de números.</li>
+    <li><strong>Cálculo da Raiz Quadrada:</strong> <code>/sqrt/{number}</code> - calcula a raiz quadrada de um determinado número.</li>
 </ul>
 
 <h2>Tecnologias Utilizadas</h2>
