@@ -30,7 +30,7 @@
 
 <h2>Estrutura do Projeto</h2>
 
-<p>O projeto está estruturado em classes de controlador, serviço e utilitário para separar as responsabilidades e facilitar a manutenção do código.</p>
+<p>O projeto está estruturado em classes Controller, Service e Util para separar as responsabilidades e facilitar a manutenção do código.</p>
 
 <pre>
 src/
